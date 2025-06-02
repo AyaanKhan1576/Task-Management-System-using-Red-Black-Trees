@@ -1,7 +1,7 @@
 # Task Management System using Red-Black Trees
 
 ## Overview
-This project implements a Task Management System using Red-Black Trees in C++. The system manages assignees and their tasks, supporting efficient insertion, deletion, and search operations. The code is contained in a single cpp file.
+This project implements a Task Management System using Red-Black Trees in C++. The system manages assignees and their tasks, supporting efficient insertion, deletion, and search operations.
 
 ## Features
 - **Assignee Management:**
@@ -28,4 +28,3 @@ This project implements a Task Management System using Red-Black Trees in C++. T
 ## Author
 - Name: Ayaan (i220832)
 - Course: Data Structures, Semester 3
-
